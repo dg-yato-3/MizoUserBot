@@ -12,6 +12,6 @@ class Config(object):
     STRING_SESSION = "string session" # string session tih hi i string session in i thlak ang
 
     #Sudo Users
-    SUDO = [1060318977] # Bracket chhungah hian command hmang thei tura i duh te user ID i dah ang, pakhat aia tam i dah dawn chuan tiang hian i dah ang [163634646, 532636444, 425252626]
+    SUDO = [5932817520] # Bracket chhungah hian command hmang thei tura i duh te user ID i dah ang, pakhat aia tam i dah dawn chuan tiang hian i dah ang [163634646, 532636444, 425252626]
 
    
